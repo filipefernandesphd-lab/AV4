@@ -1,0 +1,11 @@
+{
+  "name": "ola-mundo-node",
+  "version": "1.0.0",
+  "description": "Aplicação simples em Node.js que exibe 'Olá Mundo'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
